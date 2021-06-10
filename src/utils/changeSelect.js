@@ -1,0 +1,1 @@
+export const changeSelect = (array) => array.map(item => ({ label: item, value: item }));

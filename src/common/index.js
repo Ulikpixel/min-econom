@@ -1,0 +1,12 @@
+export { default as Burger } from './Burger';
+export { default as FileForm } from './FileForm';
+export { default as InputForm } from './InputForm';
+export { default as Loader } from './Loader';
+export { default as Popup } from './Popup';
+export { default as SelectForm } from './SelectForm';
+export { default as TextareaForm } from './TextareaForm';
+export { default as CheckboxForm } from "./CheckboxForm";
+export { default as Table } from "./Table";
+export { default as Condition } from "./Condition";
+export { default as Modal } from "./Modal";
+export { default as Document } from "./Document";

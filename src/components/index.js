@@ -1,0 +1,9 @@
+export { default as Header } from './Header';
+export { default as Home } from "./Home";
+export { default as RequestForm } from "./RequestForm";
+export { default as Success } from "./Success";
+export { default as Registry } from "./Registry";
+export { default as Request } from "./Request";
+export { default as Login } from "./Login";
+export { default as Statistics } from "./Statistics";
+export { default as Admin } from "./Admin";
